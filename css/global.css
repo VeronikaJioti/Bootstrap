@@ -1,0 +1,32 @@
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.margin-top {
+  margin-top: 5px;
+}
+
+.paddingx {
+  padding: 20px 200px;
+}
+
+.padding-bottom {
+  padding-bottom: 5px;
+}
+
+.image {
+  width: 100%;
+}
+
+.image1 {
+  width: 50%;
+  height: 300px;
+}
+
+.height {
+  height: 300px;
+}
+
+.container-75 {
+  width: 75%;
+}
